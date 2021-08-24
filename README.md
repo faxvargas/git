@@ -1,1 +1,1 @@
-aprendiendo a usar git & github con ironhack:)git
+aprendiendo a usar git & github con ironhack:)
